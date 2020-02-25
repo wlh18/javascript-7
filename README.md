@@ -1,3 +1,7 @@
+# Lecture Slides
+
+https://slides.com/matias_perez/deck#/
+
 # Advanced JavaScript Old Readme
 
 
