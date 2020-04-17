@@ -1,16 +1,8 @@
-# Lecture Slides
+# Javascript 7
 
-https://slides.com/matias_perez/deck#/
+Lecture Slides: https://slides.com/dmweb/javascript-7
 
-# Advanced JavaScript Old Readme
-
-
-* _Note_ 
-  * The Portfolio portion of job prep should be taught this afternoon
-  * It can be found in `/job-prep/10.5-portfolios
-  * It typically takes 30 minutes
-  * It should be taught immediately following lunch
-  * Students can begin working on their portfolio immediately
+## Objectives
 
 ## Status
 
